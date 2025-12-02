@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "NOBODY KNOWS PARTY",
+  "base_artist": "NANAOAKARI",
+  "createdAt": "2025-12-02T01:11:11.959697Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NOBODY KNOWS PARTY",
+      "artist": "ナナヲアカリ feat. 玉屋2060%",
+      "has_synced": true,
+      "path": "select/01_NOBODY_KNOWS_PARTY_ナナヲアカリ_feat._玉屋2060.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "NOBODY KNOWS PARTY",
+      "artist": "Nanawo, Akari feat. Tamaya 2060%",
+      "has_synced": true,
+      "path": "select/02_NOBODY_KNOWS_PARTY_Nanawo,_Akari_feat._Tamaya_2060.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "NOBODY KNOWS PARTY",
+      "artist": "NANAOAKARI",
+      "has_synced": false,
+      "path": "select/03_NOBODY_KNOWS_PARTY_NANAOAKARI.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "NOBODY KNOWS PARTY (feat.玉屋2060%)",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/04_NOBODY_KNOWS_PARTY_(feat.玉屋2060_)_ナナヲアカリ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "NOBODY KNOWS PARTY",
+      "artist": "NANAOAKARI",
+      "has_synced": true,
+      "path": "select/05_NOBODY_KNOWS_PARTY_NANAOAKARI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "NOBODY KNOWS PARTY",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/06_NOBODY_KNOWS_PARTY_ナナヲアカリ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NOBODY KNOWS PARTY feat. 玉屋2060% (Wienners)",
+      "artist": "ナナヲアカリ",
+      "has_synced": false,
+      "path": "select/pl_01_NOBODY_KNOWS_PARTY_feat._玉屋2060__(Wienners)_ナナヲアカリ.txt"
+    }
+  ]
+}
